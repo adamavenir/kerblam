@@ -1,7 +1,7 @@
 # kerblam
 Kerblam is a card and dice game in the spirit of RISK™
 
-__Disclaimer:__ Kerblam is highly irreverent, ridiculous, historically inaccurate, and built on pop stereotypes. If you take all things literally, are uncomfortable playing war games like RISK, or would never be caught playing *Cards Against Humanity*, you will dislike this game very much. The authors of the game hate war, nuclear weapons, and nationalism—but have no qualms with mocking such things.
+__Disclaimer:__ Kerblam is highly irreverent, ridiculous, historically inaccurate, and built on pop stereotypes. If you take all things literally, are uncomfortable playing war games like RISK, or would never be caught playing *Cards Against Humanity*, you will dislike this game very much. The authors of the game hate war, nuclear weapons, and nationalism.
 
 # Object of the game
 Your goal is to be the last player standing from an all-out global war. You win when all other players' armies are decimated.
