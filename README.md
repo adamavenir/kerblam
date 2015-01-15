@@ -74,11 +74,10 @@ When a Nuke is deployed:
 2. Determine countermeasures — *If your opponent plays a Nuke to counter, the nukes do not eliminate each other. Both play out their consequences.*
 3. Identify Target Army — *Opponent's Front Line or Covert Forces?*
 4. Roll 2 dice. Outcome determined below:
-
-* ``2``–``3`` destroys your Covert Forces
-* ``4``–``6`` destroys half of Target Army
-* ``7``–``11`` destroys all of Target Army
-* ``12`` destroys opponent’s Entire Army. (Not Civilians)
+  * ``2``–``3`` destroys your Covert Forces
+  * ``4``–``6`` destroys half of Target Army
+  * ``7``–``11`` destroys all of Target Army
+  * ``12`` destroys opponent’s Entire Army. (Not Civilians)
 
 __Kerblam! Nukes__
 A Kerblam! is a Super-Nuke that is only available to be played once a player has no Civilians left. (It is not necessary to have a card for this, but it should be announced to all players when 
@@ -87,8 +86,9 @@ When a Kerblam is deployed:
 
 1. Play the Kerblam! — *State who to Kerblam!*
 2. Determine Counter-Measures — *Attacked player may counter only with their own Kerblam!*
-3. Roll 2 dice. Outcome determined below:
+3. Roll 2 dice. 
 
+Outcome determined below:
 * ``2``–``6`` destroys all *your* remaining Armies.
 * ``7`` destroys half of *your* remaining Armies and half of your opponent's  largest force (Civilian/Covert/Front Line)
 * ``8``–``11`` destroys all of opponent’s Civilians.
