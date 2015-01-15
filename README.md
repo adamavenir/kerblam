@@ -53,22 +53,18 @@ Aside from Generals (K), which have abilities that can be used each round, each 
 
 Officers can be *resurrected* (brought out of Graveyard) and can once again be used.
 
-##### General (K) - 10 OP
-A General allows you to retreat anytime in a battle, discarding half your Army, rounding up. Must have at least a General and one other card to retreat. Among officers, only Generals can be used multiple times.
+__General (K), 10 OP__ — Allows you to retreat anytime in a battle, discarding half your Army, rounding up. Must have at least a General and one other card to retreat. Among officers, only Generals can be used multiple times.
 
-#### Medic (Q) - 5 OP
-A Medic may instantly save a General from a successful snipe attempt. Medics cannot save any other . In the event of a Nuke or a Kerblam, you may save one General for each unused Medic in your Army. (In this case, the Medic is discarded.)
+__Medic (Q),  5 OP__ — May instantly save a General from a successful snipe attempt. Medics cannot save any other . In the event of a Nuke or a Kerblam, you may save one General for each unused Medic in your Army. (In this case, the Medic is discarded.)
 
-__Sniper (A) 5 OP__
-A Sniper may snipe an opponent’s General *or* their Nuke. Each party rolls two dice, if Sniper’s roll is higher or ties, the Snipe is successful. Can be used to snipe Covert Generals, but only if the Sniper’s Army has played a Spy this turn.
+__Sniper (A), 5 OP__ — May snipe an opponent’s General *or* their Nuke. Each party rolls two dice, if Sniper’s roll is higher or ties, the Snipe is successful. Can be used to snipe Covert Generals, but only if the Sniper’s Army has played a Spy this turn.
 
-__Spy (Jack) - 5 OP__ 
-A Spy allows you to look one time at one opponent’s Covert Forces.
+__Spy (Jack) - 5 OP__ — Allows you to look one time at one opponent’s Covert Forces.
 
 ### Nuclear Weapons
 
-__Nukes__
-Nukes can be used at any point in the game, as long as it is your turn *or* someone has announced they are attacking you. (They merely need to state that they are attacking you for this option to be immediately available. These may be deployed on only one of your opponent's Armies. 
+##### Nukes
+Can be used at any point in the game, as long as it is your turn *or* someone has announced they are attacking you. (They merely need to state that they are attacking you for this option to be immediately available. These may be deployed on only one of your opponent's Armies. 
 
 When a Nuke is deployed:
 
@@ -81,7 +77,7 @@ When a Nuke is deployed:
   * ``7``–``11`` destroys all of Target Army
   * ``12`` destroys opponent’s Entire Army. (Not Civilians)
 
-__Kerblam! Nukes__
+##### Kerblam! Nukes
 A Kerblam! is a Super-Nuke that is only available to be played once a player has no Civilians left. (It is not necessary to have a card for this, but it should be announced to all players when 
 
 When a Kerblam is deployed:
@@ -124,12 +120,12 @@ __3. Attack, if you wish.__
 * Acts of War: a defender is engaged in battle by a dice attack, or a Snipe or nuke attempt, but is not engaged in battle by a Spy. 
 * Any Officer Cards used must be put into Front Line. (This includes Generals used for retreat or saved by Medics.)
 
-__4. Attrition__ — If you choose not to attack this turn, roll one die and discard that many from your Army.
+__4. Attrition__ — If you choose not to attack this turn, roll one die. Discard that many from your Army.
 
 __5. Spoils of War:__
 * Draw the 5 top Graveyard cards each time you obliterate an opponent's army.
 * Draw the 3 top Graveyard cards each time an opponent retreats.
-* If you obliterate an opponent's population, draw the top 5 Graveyard cards for destroying their army plus draw from the Graveyard cards equal to the total number of remaining players in the game.
+* If you obliterate an opponent's population, draw the top 5 Graveyard cards for destroying their army plus draw from the Graveyard cards equal to the total number of remaining players.
 
    __6. Draft Civilians:__
 * Anyone who has less than 10 total cards in their entire Army must draw from their Civilian Deck until they do (or draw as many cards as you can, if you have less than 10 in your Civilian Deck).
