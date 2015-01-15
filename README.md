@@ -1,6 +1,6 @@
 ![](https://cldup.com/ksgPyiQ46x-2000x2000.png)
 Kerblam!
-=======
+========
 
 __*Kerblam!* is a card and dice war game in the spirit of RISK™, but for people who don't have a bazillion hours and want to have a clear winner and just be done with it stop hiding alll the way over there in Australia. Seriously.__
 
@@ -32,16 +32,18 @@ Every player has one super-nuke called a __Kerblam!__ which is immediately avail
 The playing area is set up like this.
 
 ### Civilians
-Civilians are cards that have not been drawn. They become part of your Army when they are drafted.
+Civilians are cards that have not been drawn. They become part of your Army when they are drafted (drawn into your hand).
 
 ### Army
 All drafted Civilians are now in your Army—including officers and soldiers. Your Army is divided into 2 parts:
 
-- __Front Line__ Army cards laid down face up in front of you (red cards and spent Officer cards, plus Generals (K) either used to retreat or revived).
-- __Covert Forces__ - Army cards hidden from opponents' view. (black cards and all Nukes) Once an officer from Covert Forces uses their special ability, they join the Front Line, turned sideways to indicate they are spent.
+- __Front Line__ — Army cards laid down face up in front of you (red cards and spent Officer cards, plus Generals (K) either used to retreat or revived).
+- __Covert Forces__ — Army cards hidden from opponents' view. (black cards and all Nukes) Once an officer from Covert Forces uses their special ability, they join the Front Line, turned sideways to indicate they are spent.
 
 ### Soldiers
-Non-officer, non-nuke cards are simply Soldiers. These are the first to die in battle, since you (usually) have a choice of which among your Army to send to the Graveyard. Soldiers are usually cards numbered 2-10. __Note:__ Be sure to keep an awareness of which of your Soldiers have been appropriated for Nukes in multiplayer scenarios.
+Non-officer, non-nuke cards are simply Soldiers. These are the first to die in battle, since you (usually) have a choice of which among your Army to send to the Graveyard. Soldiers are usually cards numbered 2-10. 
+
+__Note:__ Be sure to keep an awareness of which of your Soldiers have been appropriated for Nukes in multiplayer scenarios.
 
 ### Officer Cards
 
@@ -51,10 +53,10 @@ Aside from Generals (K), which have abilities that can be used each round, each 
 
 Officers can be *resurrected* (brought out of Graveyard) and can once again be used.
 
-__General (K) - 10 OP__
+##### General (K) - 10 OP
 A General allows you to retreat anytime in a battle, discarding half your Army, rounding up. Must have at least a General and one other card to retreat. Among officers, only Generals can be used multiple times.
 
-__Medic (Q) - 5 OP__
+#### Medic (Q) - 5 OP
 A Medic may instantly save a General from a successful snipe attempt. Medics cannot save any other . In the event of a Nuke or a Kerblam, you may save one General for each unused Medic in your Army. (In this case, the Medic is discarded.)
 
 __Sniper (A) 5 OP__
