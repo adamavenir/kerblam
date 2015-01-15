@@ -8,7 +8,7 @@ __*Kerblam!* is a card and dice war game in the spirit of RISK™, but for peopl
 
 __Disclaimer:__ Kerblam is highly irreverent, ridiculous, historically inaccurate, and built on pop stereotypes. If you take all things literally, are uncomfortable playing war games like *RISK*, or would never be caught playing *Cards Against Humanity*, you will dislike this game very much. The authors of the game hate war, nuclear weapons, and nationalism.
 
-__Note:__ Please [file issues](https://github.com/adambrault/kerblam/issues/new) if anything seems unclear or if you think there is an aspect of gameplay that could be improved or simplified. My goal is to play test this a bit more, collaborate with @amydearest on the final card set, and publish this game with her beautiful artwork. Mostly because what the heck. Why not?
+__Note:__ Please [file issues](https://github.com/adambrault/kerblam/issues/new) if anything seems unclear or if you think there is an aspect of gameplay that could be improved or simplified. My goal is to play test this a bit more, collaborate with @amylynntaylor on the final card set, and publish this game with her beautiful artwork. Mostly because what the heck. Why not?
 
 ------------------------------------------------------------------------
 
