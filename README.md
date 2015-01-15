@@ -8,6 +8,8 @@ __*Kerblam!* is a card and dice war game in the spirit of RISK™, but for peopl
 
 __Disclaimer:__ Kerblam is highly irreverent, ridiculous, historically inaccurate, and built on pop stereotypes. If you take all things literally, are uncomfortable playing war games like *RISK*, or would never be caught playing *Cards Against Humanity*, you will dislike this game very much. The authors of the game hate war, nuclear weapons, and nationalism.
 
+__Note:__ Please [file issues](https://github.com/adambrault/kerblam/issues/new) if anything seems unclear or if you think there is an aspect of gameplay that could be improved or simplified. My goal is to play test this a bit more, collaborate with @amydearest on the final card set, and publish this game with her beautiful artwork. Mostly because what the heck. Why not?
+
 ------------------------------------------------------------------------
 
 # Object of the game
@@ -16,6 +18,12 @@ Your goal is to be the last player standing from an all-out global war. You win 
 Your __deck__ represents the whole of your country's Civilians. The cards in your hand are your __Armies__, which are drafted from the deck of Civilians.
 
 Players are eliminated when their entire Army and their Civilians are in the Graveyard. (The __Graveyard__ is your discard pile where cards are laid face up.) The last nation standing wins. 
+
+# What you need to play
+
+- __2–8 players__
+- __5 dice:__ 3 red dice (attacking), 2 white dice (defending)
+- __Cards:__ One 54-card deck (52 + 2 jokers) per player
 
 # How the game works
 
