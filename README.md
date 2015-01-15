@@ -86,13 +86,11 @@ When a Kerblam is deployed:
 
 1. Play the Kerblam! — *State who to Kerblam!*
 2. Determine Counter-Measures — *Attacked player may counter only with their own Kerblam!*
-3. Roll 2 dice. 
-
-Outcome determined below:
-* ``2``–``6`` destroys all *your* remaining Armies.
-* ``7`` destroys half of *your* remaining Armies and half of your opponent's  largest force (Civilian/Covert/Front Line)
-* ``8``–``11`` destroys all of opponent’s Civilians.
-* ``12`` destroys all of opponent's Civilians and Armies
+3. Roll 2 dice. Outcome determined below:
+  * ``2``–``6`` destroys all *your* remaining Armies.
+  * ``7`` destroys half of *your* remaining Armies and half of your opponent's  largest force (Civilian/Covert/Front Line)
+  * ``8``–``11`` destroys all of opponent’s Civilians.
+  * ``12`` destroys all of opponent's Civilians and Armies
 
 # Getting Started
 Roll to see who goes first. (Turns progress clock-wise.)
