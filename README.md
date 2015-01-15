@@ -1,4 +1,5 @@
-kerblam
+![](https://cldup.com/ksgPyiQ46x-2000x2000.png)
+Kerblam!
 =======
 
 __*Kerblam!* is a card and dice war game in the spirit of RISK™, but for people who don't have a bazillion hours and want to have a clear winner and just be done with it stop hiding alll the way over there in Australia. Seriously.__
