@@ -72,7 +72,7 @@ __Spy (Jack) - 5 OP__ — Allows you to look one time at one opponent’s Covert
 ### Nuclear Weapons
 
 ##### Nukes
-Can be used at any point in the game, as long as it is your turn *or* someone has announced they are attacking you. (They merely need to state that they are attacking you for this option to be immediately available. These may be deployed on only one of your opponent's Armies. 
+Jokers are Nuke cards. Nukes can be used at any point in the game, as long as it is your turn *or* someone has announced they are attacking you. (They merely need to state that they are attacking you for this option to be immediately available. These may be deployed on only one of your opponent's Armies. 
 
 When a Nuke is deployed:
 
@@ -103,7 +103,7 @@ Roll to see who goes first. (Turns progress clock-wise.)
 
 If you are playing with Kerblam! Nations, the person who would normally go last gets to choose their nation first, followed by the second-to-last, and so on. Once finished choosing countries, draw cards. Only one Nation Card per person.
 
-Everyone draws 10 cards to begin with, placing them as described under "Your Hand / Army".
+Everyone draws 10 cards to begin with, laying down Front Line cards (red) and keeping Covert Forces (black and all nukes) in your hand, out of sight.
 
 After everyone has drawn their cards, follow the "Turn Progression" below.
 
