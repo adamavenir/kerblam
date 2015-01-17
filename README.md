@@ -204,60 +204,41 @@ Each country listed has a specific power, which, unless indicated, can be used o
 
 The effects of these cards cannot be countered unless explicitly stated.
 
-#### Afghanistan — Specialty: Insurgents 
-Force all opponents to do an OfficerPoint check. If the Officer Points in their Covert Forces add up to more than the Officer Points in their Front Line, they must discard all officers in their Front Line. Draw one card from your Graveyard for every opposing Officer killed.
 
-##### Canada — Specialty: America's Hat 
-Draw 4 additional cards from your Civilian Deck, draw 2 cards from your Graveyard, and force everyone else to discard one Officer Card and three soldiers from their Army.
+#### Afghanistan: Insurgents__ — Force all opponents to do an OfficerPoint check. If the Officer Points in their Covert Forces add up to more than the Officer Points in their Front Line, they must discard all officers in their Front Line. Draw one card from your Graveyard for every opposing Officer killed.
 
-##### China — Specialty: Population 
-Take 10 soldier cards from yourGraveyard and add them into your Civilian Deck at any time. Then shuffle your Civilian Deck twice. Draw 1 additional card every time you draw cards from your Civilian Deck from this point on.
+__Canada: America's Hat__ — Draw 4 additional cards from your Civilian Deck, draw 2 cards from your Graveyard, and force everyone else to discard one Officer Card and three soldiers from their Army.
 
-##### Cuba — Specialty: Communism 
-Choose one opponent of your choice and roll a die. 1-3: they must pare down their Army to the same size and officer point total as yours, discarding the rest into their graveyard. 4-5: they must pare down their Civilian deck count to equal yours. If you rolled a 6, they have to do both.
+__China: Population__ — Take 10 soldier cards from yourGraveyard and add them into your Civilian Deck at any time. Then shuffle your Civilian Deck twice. Draw 1 additional card every time you draw cards from your Civilian Deck from this point on.
 
-##### England — Specialty: Empire 
-Choose two dice to roll separately from the others for as much as one entire round (including all opponents’ turns). Double the amount shown on the lowest die for all rolls. If used at the beginning of your turn, it is active until your next turn. If used in the middle of an opponent’s turn, it is active until the end of your turn.
+__Cuba: Communism__ — Choose one opponent of your choice and roll a die. 1-3: they must pare down their Army to the same size and officer point total as yours, discarding the rest into their graveyard. 4-5: they must pare down their Civilian deck count to equal yours. If you rolled a 6, they have to do both.
 
-##### France — Specialty: Short Generals / Surrender 
-Instantly turn one regular soldier into a General (King). May be used a total of two times in the game. Two at a time is acceptable. Additionally, you have one free retreat that can be used without taking losses.
+__England: Empire__ — Choose two dice to roll separately from the others for as much as one entire round (including all opponents’ turns). Double the amount shown on the lowest die for all rolls. If used at the beginning of your turn, it is active until your next turn. If used in the middle of an opponent’s turn, it is active until the end of your turn.
 
-##### Germany — Specialty: Blitzkrieg
-Play only at the beginning of your turn. Do not roll to collect your cards. Draw the maximum 12cards from your Civilian Deck instead of regular card collecting.Additionally, you have the advantage in all battles for the rest of the round. No other nation cards can counter this advantage.
+__France: Short Generals / Surrender__ — Instantly turn one regular soldier into a General (King). May be used a total of two times in the game. Two at a time is acceptable. Additionally, you have one free retreat that can be used without taking losses.
 
-##### India — Specialty: Reincarnation 
-Draw the top 8 cards from yourGraveyard anytime. Alternatively, you may draw 4 from your Graveyard at one time and 4 more at another point in the game.
+__Germany: Blitzkrieg__ — Play only at the beginning of your turn. Do not roll to collect your cards. Draw the maximum 12cards from your Civilian Deck instead of regular card collecting.Additionally, you have the advantage in all battles for the rest of the round. No other nation cards can counter this advantage.
 
-##### Indonesia — Specialty: Off the Radar 
-You may negate two attempts to spy. In addition for two consecutive rounds of your choosing, every card you draft from the Civilian Deck goes into your Covert Army.
+__India: Reincarnation__ — Draw the top 8 cards from yourGraveyard anytime. Alternatively, you may draw 4 from your Graveyard at one time and 4 more at another point in the game.
 
-##### Israel — Specialty: Resilience 
-You have the advantage for all battles in two complete rounds of your choosing. These may be consecutive or separate rounds.
+__Indonesia: Off the Radar__ — You may negate two attempts to spy. In addition for two consecutive rounds of your choosing, every card you draft from the Civilian Deck goes into your Covert Army.
 
-##### Japan — Specialty: Kamikaze
-Can only be played at the beginning of your turn or when attacked by another player. Discard your entire Front Line, except for any Generals. Choose one opponent and destroy either their Front Line or Covert Forces, except forNukes. If played during your turn, draw back up to the minimum Army size.
+__Israel: Resilience__ — You have the advantage for all battles in two complete rounds of your choosing. These may be consecutive or separate rounds.
 
-##### Netherlands — Specialty: Sabotage
-Force a skipped turn for one or all other players at the beginning or end of anyone’s turn.(This card can be used at the end of your turn so that you have two turns in a row.)
+__Japan: Kamikaze__ — Can only be played at the beginning of your turn or when attacked by another player. Discard your entire Front Line, except for any Generals. Choose one opponent and destroy either their Front Line or Covert Forces, except forNukes. If played during your turn, draw back up to the minimum Army size.
 
-##### North Korea — Specialty: Military Dictatorship 
-All Generals count for 20 points for the duration of the game. (These Generals are still regarded as only one card, just valued at twice their typical point total.)
+__Netherlands: Sabotage__ — Force a skipped turn for one or all other players at the beginning or end of anyone’s turn.(This card can be used at the end of your turn so that you have two turns in a row.)
 
-##### Russia — Specialty: Bears 
-Choose one opponent of your choice who must roll two dice and then discard that many of their Army, starting with their Covert Forces first. If the total is either 2 or 12, they must discard their entire Army. Note: bears cannot eat nuclear weapons, so those cards remain regardless of roll.
+__North Korea: Military Dictatorship__ — All Generals count for 20 points for the duration of the game. (These Generals are still regarded as only one card, just valued at twice their typical point total.)
 
-##### South Africa — Specialty: Reconciliation 
-Free retreat without taking losses. Can be used 4 times in the game. (Rotate this card clockwise one time per use to indicate number of times used in the game.)
+__Russia: Bears__ — Choose one opponent of your choice who must roll two dice and then discard that many of their Army, starting with their Covert Forces first. If the total is either 2 or 12, they must discard their entire Army. Note: bears cannot eat nuclear weapons, so those cards remain regardless of roll.
 
-##### Spain — Specialty: Conquistadors 
-If, during your turn, you are no longer able to attack because all your opponents have been obliterated or retreated, you may force them to draft to the minimum 10 and again re-engage any or all of them. Any Generals used to retreat earlier in this round may not be used again to retreat.
+__South Africa: Reconciliation__ — Free retreat without taking losses. Can be used 4 times in the game. (Rotate this card clockwise one time per use to indicate number of times used in the game.)
 
-##### Sweden — Specialty: Burn & Pillage
-Choose one opponent you would like to trade places with in the game. You and they roll one die each. If you beat their dice roll, change seats at the table with them, pillaging their nation and making it your own, while they take your place.
+__Spain: Conquistadors__ — If, during your turn, you are no longer able to attack because all your opponents have been obliterated or retreated, you may force them to draft to the minimum 10 and again re-engage any or all of them. Any Generals used to retreat earlier in this round may not be used again to retreat.
 
-##### Switzerland — Specialty: Neutrality & Banking 
-For the duration of the game, draw one card from your Graveyard whenever any player retreats by rolling doubles.
+__Sweden: Burn & Pillage__ — Choose one opponent you would like to trade places with in the game. You and they roll one die each. If you beat their dice roll, change seats at the table with them, pillaging their nation and making it your own, while they take your place.
 
-##### United States — Specialty: Trade 
-Choose to strengthen either yourFront Line or Covert Forces by trade. Count the total number in your selected Army, draw that many from your Graveyard, then discard the same amount after selecting which to keep.
+__Switzerland: Neutrality & Banking__ — For the duration of the game, draw one card from your Graveyard whenever any player retreats by rolling doubles.
 
+__United States: Trade__ — Choose to strengthen either yourFront Line or Covert Forces by trade. Count the total number in your selected Army, draw that many from your Graveyard, then discard the same amount after selecting which to keep.
