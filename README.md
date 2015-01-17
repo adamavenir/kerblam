@@ -136,7 +136,7 @@ __5. Spoils of War:__
 * If you obliterate an opponent's population, draw the top 5 Graveyard cards for destroying their army plus draw from the Graveyard cards equal to the total number of remaining players.
 
 __6. Draft Civilians:__
-* Any player in the game who has less than 10 total cards in their entire Army must draw from their Civilian Deck until they do (or draw as many cards as you can, if you have less than 10 in your Civilian Deck). Whenever you draw any new cards in the game, put all non-nuke reds on your Front Line and keep the other cards in your hand as Covert Forces.
+* Any player in the game who has less than 10 total cards in their entire Army must draw from their Civilian Deck until they do (or draw as many cards as you can, if you have less than 10 in your Civilian Deck). Whenever you draw any new cards in the game, put all non-nuke red cards on your Front Line and keep the other cards (black and all nukes) in your hand as Covert Forces.
 
 __7. End turn__
 * Lay down all Front Line (non-Nuke red cards), end turn, pass dice.
