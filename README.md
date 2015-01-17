@@ -204,14 +204,10 @@ Each country listed has a specific power, which, unless indicated, can be used o
 
 The effects of these cards cannot be countered unless explicitly stated.
 
-
-#### Afghanistan: Insurgents__ — Force all opponents to do an OfficerPoint check. If the Officer Points in their Covert Forces add up to more than the Officer Points in their Front Line, they must discard all officers in their Front Line. Draw one card from your Graveyard for every opposing Officer killed.
-
-__Canada: America's Hat__ — Draw 4 additional cards from your Civilian Deck, draw 2 cards from your Graveyard, and force everyone else to discard one Officer Card and three soldiers from their Army.
-
-__China: Population__ — Take 10 soldier cards from yourGraveyard and add them into your Civilian Deck at any time. Then shuffle your Civilian Deck twice. Draw 1 additional card every time you draw cards from your Civilian Deck from this point on.
-
-__Cuba: Communism__ — Choose one opponent of your choice and roll a die. 1-3: they must pare down their Army to the same size and officer point total as yours, discarding the rest into their graveyard. 4-5: they must pare down their Civilian deck count to equal yours. If you rolled a 6, they have to do both.
+- __Afghanistan: Insurgents__ — Force all opponents to do an OfficerPoint check. If the Officer Points in their Covert Forces add up to more than the Officer Points in their Front Line, they must discard all officers in their Front Line. Draw one card from your Graveyard for every opposing Officer killed.
+- __Canada: America's Hat__ — Draw 4 additional cards from your Civilian Deck, draw 2 cards from your Graveyard, and force everyone else to discard one Officer Card and three soldiers from their Army.
+- __China: Population__ — Take 10 soldier cards from yourGraveyard and add them into your Civilian Deck at any time. Then shuffle your Civilian Deck twice. Draw 1 additional card every time you draw cards from your Civilian Deck from this point on.
+- __Cuba: Communism__ — Choose one opponent of your choice and roll a die. 1-3: they must pare down their Army to the same size and officer point total as yours, discarding the rest into their graveyard. 4-5: they must pare down their Civilian deck count to equal yours. If you rolled a 6, they have to do both.
 
 __England: Empire__ — Choose two dice to roll separately from the others for as much as one entire round (including all opponents’ turns). Double the amount shown on the lowest die for all rolls. If used at the beginning of your turn, it is active until your next turn. If used in the middle of an opponent’s turn, it is active until the end of your turn.
 
