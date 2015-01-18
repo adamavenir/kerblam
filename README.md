@@ -187,13 +187,13 @@ Look at everyone’s Covert Forces *and* your next 5 Civilian cards. May only be
 __Weapons Inspector (1 J, 2 A)__ 
 Select one opponent to disable all nukes or their Kerblam!, if it is active. All 3 cards must be played simultaneously. May only be used once, then marked as spent.
 
-
 ### Multiplayer modifications and notes
 
-As you add 3+ players, remove numbered cards corresponding to the number of players you have in the game. For example:
-
 * 3 players: remove 3s and 2s
-* 8 players: remove 8s and below.
+* 4 players: remove 4s, 3s, 2s
+* 5+ players: remove 5s, 4s, 3s, 2s
+
+If you're looking to speed up gameplay, it is highly recommended you remove half the cards. (Drop 1 red suit, 1 black suit, but leave both jokers.) This is almost 
 
 
 # Kerblam! Nations (optional addition to gameplay)
