@@ -13,7 +13,7 @@ __Note:__ Please [file issues](https://github.com/adambrault/kerblam/issues/new)
 ------------------------------------------------------------------------
 
 # Object of the game
-Your goal is to be the last player standing from an all-out global war. You win when all other players' armies are decimated.
+Your goal is to be the last player standing from an all-out global war. You win when all other players' armies & civilians are decimated.
 
 Your __deck__ represents the whole of your country's Civilians. The cards in your hand are your __Armies__, which are drafted from the deck of Civilians.
 
@@ -51,7 +51,7 @@ All drafted Civilians are now in your Army—including officers and soldiers. Yo
 ### Soldiers
 Non-officer, non-nuke cards are simply Soldiers. These are the first to die in battle, since you (usually) have a choice of which among your Army to send to the Graveyard. Soldiers are usually cards numbered 2-10. 
 
-__Note:__ Be sure to keep an awareness of which of your Soldiers have been appropriated for Nukes in multiplayer scenarios.
+__Note:__ You start the game with a number of nukes equal to the number of players in the game. In two player games these will be your two jacks, for larger games you can use some of the cards (2s/3s/etc) removed from the game. Be sure to keep an awareness of which of your Soldiers have been appropriated for Nukes in multiplayer scenarios.
 
 ### Officer Cards
 
@@ -65,7 +65,7 @@ __General (K), 10 OP__ — Allows you to retreat anytime in a battle, discarding
 
 __Medic (Q),  5 OP__ — May instantly save a General from a successful snipe attempt. Medics cannot save any other . In the event of a Nuke or a Kerblam, you may save one General for each unused Medic in your Army. (In this case, the Medic is discarded.)
 
-__Sniper (A), 5 OP__ — May snipe an opponent’s General *or* their Nuke. Each party rolls two dice, if Sniper’s roll is higher or ties, the Snipe is successful. Can be used to snipe Covert Generals, but only if the Sniper’s Army has played a Spy this turn.
+__Sniper (A), 5 OP__ — May snipe an opponent’s General *or* their Nuke. Each party rolls two dice, if Sniper’s total roll is higher or ties, the Snipe is successful. Can be used to snipe Covert Generals, but only if the Sniper’s Army has played a Spy this turn.
 
 __Spy (Jack) - 5 OP__ — Allows you to look one time at one opponent’s Covert Forces.
 
@@ -84,11 +84,12 @@ When a Nuke is deployed:
   * ``4``–``6`` destroys half of Target Army
   * ``7``–``11`` destroys all of Target Army
   * ``12`` destroys opponent’s Entire Army. (Not Civilians)
+5. Place the spent nuke under the graveyard to show that it's been used. Nukes which have been spent, or destroyed by opponents, cannot be recovered from the graveyard.
 
 ##### Kerblam! Nukes
-A Kerblam! is a Super-Nuke that is only available to be played once a player has no Civilians left. (It is not necessary to have a card for this, but it should be announced to all players when 
+A Kerblam! is a Super-Nuke that is only available to be played once a player has no Civilians left. (It is not necessary to have a card for this, but it should be announced to all players when you have a Kerlbam! available.
 
-When a Kerblam is deployed:
+Once you have a Kerblam! nuke available, it can be played at any time a nuke can be played. When a Kerblam! is deployed:
 
 1. Play the Kerblam! — *State who to Kerblam!*
 2. Determine Counter-Measures — *Attacked player may counter only with their own Kerblam!*
@@ -112,20 +113,19 @@ Keep in mind throughout the game that for any rounding of numbers that takes pla
 # Turn Progression
 
 __1. Draw cards.__
-* All players draw enough cards to have a total of 10 cards in their
-       Army.
-* Roll 2 dice, divide total by 2 and draw that many cards, rounding
-       up.
+* As described in (6), at the start of each player's turn everyone should have at least 10 cards in their army. Any players who do not should draw up to ten cards, and place them into their Front Line/Covert Forces as appropriate.
+* (Only the current player) roll two dice, divide total by 2, and draw that many cards, rounding up.
 * If the dice match, draw the total shown.
 
 __2. Announce Officer Point (OP) totals and advantages__
 * Have everyone playing count officer points in their Front Line and Covert Forces and announce them to the group.
+    * General (K): 10, Medic (Q): 5, Sniper (A): 5, Spy (J): 5, everything else: 0.
 * Any players whose Armies have been obliterated (not retreated) since their last turn should announce they have the advantage.
 
 __3. Attack, if you wish.__
-* Once engaged in battle, either party may use any officers / nukes
-       at any point.
+* The current player may engage in battle with any other player(s) in the game. They do this with an Act of War.
 * Acts of War: a defender is engaged in battle by a dice attack, or a Snipe or nuke attempt, but is not engaged in battle by a Spy. 
+* As soon as they are engaged in battle, either party may use any officers / nukes at any point.
 * Any Officer Cards used must be put into Front Line. (This includes Generals used for retreat or saved by Medics.)
 
 __4. Attrition__ — If you choose not to attack this turn, roll one die. Discard that many from your Army.
@@ -133,7 +133,7 @@ __4. Attrition__ — If you choose not to attack this turn, roll one die. Discar
 __5. Spoils of War:__
 * Draw the 5 top Graveyard cards each time you obliterate an opponent's army.
 * Draw the 3 top Graveyard cards each time an opponent retreats.
-* If you obliterate an opponent's population, draw the top 5 Graveyard cards for destroying their army plus draw from the Graveyard cards equal to the total number of remaining players.
+* If you obliterate an opponent's population (they are out of the game), draw the top 5 Graveyard cards for destroying their army plus draw from the Graveyard cards equal to the total number of remaining players.
 
 __6. Draft Civilians:__
 * Any player in the game who has less than 10 total cards in their entire Army must draw from their Civilian Deck until they do (or draw as many cards as you can, if you have less than 10 in your Civilian Deck). Whenever you draw any new cards in the game, put all non-nuke red cards on your Front Line and keep the other cards (black and all nukes) in your hand as Covert Forces.
@@ -146,10 +146,13 @@ __7. End turn__
 - Dice battles determine the outcome of all battles.
 - The player attacking gets three dice, the defender gets two dice.
 - Neither attacker nor defender can roll more dice than they have cards left to lose.
-- Wins are determined by matching dice to dice, with two being the maximum number lost each dice roll.
+- Wins are determined by matching dice to dice, with two being the maximum number lost each dice roll. 
+    - e.g. if the attacker rolls `6, 3, 1` and the defender rolls `4, 5`, then both players lose 1 card.sn
+- When you lose a dice roll, you get to choose which card from your army to remove to the graveyard. Remember that the order cards are put into the graveyard is important as they may be recovered in the future. Nukes however, can never be recovered and go face up under the graveyard.
 - Ties go to player with Officer Advantage. If OP totals are equal, the
    tie goes to person attacking. Officer Advantage shifts if OP count
    changes sufficiently.
+- The defending player can nuke/play officer cards against the attacker at any point. (Although not between dice rolls and their resolution).
 - The attacker can end the conflict at any point. Defenders must
    retreat, as outlined below.
 - You may attack as many opponents as you would like, so long as you
@@ -164,7 +167,7 @@ Defenders may retreat in one of three ways to end unwanted conflicts:
 
    2. __General Retreat__ — If the defender has a General and one other card, they may retreat, discarding half their Army, rounding up.
 
-   3. __Super-General Retreat__ — If the defender has two Generals, they may retreat without incurring any loss.
+   3. __Super-General Retreat__ — If you are playing with officer combos (detailed below) and the defender has two Generals, they may retreat without incurring any loss. Can only be used once per game.
 
 # Game options
 
