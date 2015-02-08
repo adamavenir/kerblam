@@ -149,6 +149,7 @@ __7. End turn__
 - Ties go to player with Officer Advantage. If OP totals are equal, the
    tie goes to person attacking. Officer Advantage shifts if OP count
    changes sufficiently.
+- Between each dice roll, attacker and defender may play other cards. First defender, then attacker.
 - The attacker can end the conflict at any point. Defenders must
    retreat, as outlined below.
 - You may attack as many opponents as you would like, so long as you
