@@ -12,6 +12,10 @@ __Note:__ Please [file issues](https://github.com/adambrault/kerblam/issues/new)
 
 ------------------------------------------------------------------------
 
+__Download the [Cheat Sheet (PDF)](https://cloudup.com/cn1ElFaUQxa)__
+
+![](https://cldup.com/EcyNBPjqQj-2000x2000.png)
+
 # Object of the game
 Your goal is to be the last player standing from an all-out global war. You win when all other players' armies are decimated.
 
