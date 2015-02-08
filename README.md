@@ -192,12 +192,11 @@ Select one opponent to disable all nukes or their Kerblam!, if it is active. All
 
 ### Multiplayer modifications and notes
 
-* 3 players: remove 3s and 2s
-* 4 players: remove 4s, 3s, 2s
-* 5+ players: remove 5s, 4s, 3s, 2s
+* 3-4 players: remove 4s, 3s and 2s
+* 5-6 players: remove 5s, 4s, 3s, 2s
+* 7+ players: remove 6s, 5s, 4s, 3s, 2s
 
-If you're looking to speed up gameplay, it is highly recommended you remove half the cards. (Drop 1 red suit, 1 black suit, but leave both jokers.) This is almost 
-
+If you're looking to speed up gameplay, it is *highly* recommended you remove half the cards. (Drop 1 red suit, 1 black suit, and 1 Joker.)
 
 # Kerblam! Nations (optional addition to gameplay)
 
