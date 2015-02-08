@@ -11,10 +11,9 @@ __Disclaimer:__ Kerblam is highly irreverent, ridiculous, historically inaccurat
 __Note:__ Please [file issues](https://github.com/adambrault/kerblam/issues/new) if anything seems unclear or if you think there is an aspect of gameplay that could be improved or simplified. My goal is to play test this a bit more, collaborate with [Amy](http://twitter.com/amydearest) on the final card set, and publish this game with her beautiful artwork. Mostly because what the heck. Why not?
 
 ------------------------------------------------------------------------
-
 __Download the [Cheat Sheet (PDF)](https://cloudup.com/cn1ElFaUQxa)__
 
-![](https://cldup.com/EcyNBPjqQj-2000x2000.png)
+[<img src="https://cldup.com/EcyNBPjqQj-2000x2000.png">](https://cloudup.com/cn1ElFaUQxa)
 
 # Object of the game
 Your goal is to be the last player standing from an all-out global war. You win when all other players' armies are decimated.
