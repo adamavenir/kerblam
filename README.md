@@ -85,10 +85,10 @@ When a Nuke is deployed:
   * ``3`` destroys your largest force (Covert Forces or Front Lines)
   * ``4``–``6`` destroys opponent's smallest force (Covert Forces or Front Lines)
   * ``7``–``11`` destroys opponent's largest force (Covert Forces or Front Lines)
-  * ``2`` or ``12`` destroys opponent’s Entire Army (not Civilians)
+  * ``2`` or ``12`` destroys opponent’s entire Army (not Civilians)
 
 ##### Kerblam! Nukes
-A Kerblam! is a Super-Nuke that is only available to be played once a player has no Civilians left. (The last card drawn becomes the KerBLAM and is set out in front of the Front Line. This card loses its normal powers if it is an officer card. When drawing last card, players must call out “KerBLAM!”)
+A Kerblam! is a Super-Nuke that is only available to be played once a player has no Civilians left. The last card drawn becomes the KerBLAM and is set out in front of the Front Line. When drawing last card, players must call out “KerBLAM!” The Kerblam is not added to your Covert Forces or your Front Line. It cannot be played if your Army is destroyed. 
 
 When a Kerblam is deployed:
 
@@ -96,8 +96,8 @@ When a Kerblam is deployed:
 2. Determine Counter-Measures — *Attacked player may counter only with their own Kerblam!*
 3. Roll 2 dice. Outcome determined below:
   * ``3``–``6`` destroys all *your* remaining Armies
-  * ``7`` destroys your opponent's largest force (Civilian / Covert Forces / Front Line)
-  * ``8``–``11`` destroys half of *your* remaining Armies and half of opponent’s Armies and Civilians
+  * ``7`` destroys your opponent's largest force (Civilians / Covert Forces / Front Line)
+  * ``8``–``11`` destroys all of *your* remaining Soldiers and half of opponent’s Armies and Civilians
   * ``2`` or ``12`` destroys all of opponent's Civilians and Armies
 
 # Getting Started
@@ -105,7 +105,7 @@ Roll to see who goes first. (Turns progress clock-wise.)
 
 If you are playing with Kerblam! Nations, the person who would normally go last gets to choose their nation first, followed by the second-to-last, and so on. Once finished choosing countries, draw cards. Only one Nation Card per person.
 
-Everyone draws 10 cards to begin with, laying down Front Line cards (red) and keeping Covert Forces (black and all nukes) in your hand, out of sight.
+Everyone draws 6 cards to begin with, laying down Front Line cards (red) and keeping Covert Forces (black and all nukes) in your hand, out of sight.
 
 After everyone has drawn their cards, follow the "Turn Progression" below.
 
@@ -114,10 +114,7 @@ Keep in mind throughout the game that for any rounding of numbers that takes pla
 # Turn Progression
 
 __1. Draw cards.__
-* All players draw enough cards to have a total of 10 cards in their
-       Army.
-* Roll 2 dice, divide total by 2 and draw that many cards, rounding
-       up.
+* Draw 2 cards.
 * If the dice match, draw the total shown.
 
 __2. Announce Officer Point (OP) totals and advantages__
@@ -125,45 +122,43 @@ __2. Announce Officer Point (OP) totals and advantages__
 * Any players whose Armies have been obliterated (not retreated) since their last turn should announce they have the advantage.
 
 __3. Attack, if you wish.__
-* Once engaged in battle, either party may use any officers / nukes
-       at any point.
-* Acts of War: a defender is engaged in battle by a dice attack, or a Snipe or nuke attempt, but is not engaged in battle by a Spy. 
+* Once engaged in battle, either party may use any cards, but must follow rules of engagement.
 * Any Officer Cards used must be put into Front Line. (This includes Generals used for retreat or saved by Medics.)
+* Acts of War: a defender is engaged in battle by a dice attack, or a Snipe Nuke, or Kerblam attempt, but is not engaged in battle by a Spy. Any other card (Nation Cards, etc) which do not cause damage to defenders are not Acts of War, but those which do cause damage are. If an attack is declared, Nukes and Kerblams are available for defenders to use before the first dice roll. (However, these may be played only one at a time.)
 
 __4. Attrition__ — If you choose not to attack this turn, roll one die. Discard that many from your Army.
 
 __5. Spoils of War:__
-* Draw the 4 top Graveyard cards each time you obliterate an opponent's army.
-* Draw the 2 top Graveyard cards each time an opponent retreats.
-* If you obliterate an opponent's population, draw the top 4 Graveyard cards for destroying their army plus draw from your Graveyard cards equal to the total number of remaining players.
+* Draw the 2 top Graveyard cards each time you obliterate an opponent's army.
+* Draw the 1 top Graveyard cards each time an opponent retreats.
+* If you obliterate an opponent's entire population (Armies and Civilians), draw the top 2 Graveyard cards for destroying their Army, plus draw from your Graveyard cards equal to the total number of remaining players.
 
 __6. Everyone Drafts Civilians:__
-* Any player in the game who has less than 10 total cards in their entire Army must draw from their Civilian Deck until they do (or draw as many cards as you can, if you have less than 10 in your Civilian Deck). Whenever you draw any new cards in the game, put all non-nuke red cards on your Front Line and keep the other cards (black and all nukes) in your hand as Covert Forces.
+* Any player in the game who has less than 6 total cards in their entire Army must draw from their Civilian Deck until they do (or draw as many cards as you can, if you have less than 6 in your Civilian Deck). Whenever you draw any new cards in the game, put all non-nuke red cards on your Front Line and keep the other cards (black and all nukes) in your hand as Covert Forces.
 
 __7. End turn__
 * Lay down all Front Line (non-Nuke red cards), end turn, pass dice.
 
 # Attacking
 
-- Dice battles determine the outcome of all battles.
+- You must have an Officer in your Army in order to attack.
 - The player attacking gets three dice, the defender gets two dice.
-- Neither attacker nor defender can roll more dice than they have cards left to lose.
-- Wins are determined by matching dice to dice, with two being the maximum number lost each dice roll.
-- Ties go to player with Officer Advantage. If OP totals are equal, the
-   tie goes to person attacking. Officer Advantage shifts if OP count
-   changes sufficiently.
+- Neither player can roll more dice than they have cards left to lose.
+- Match high dice to high dice. For each dice lost, discard that many from Army to Graveyard, starting with lowest OP (Soldiers) to highest. 
+- The maximum number lost each dice roll is 2.
+- Dice ties go to player with Officer Advantage. If OP totals are equal, the
+   tie goes to the attacker.
+ - During battle, account for any changes in OP total.
 - Between each dice roll, attacker and defender may play other cards. First defender, then attacker.
-- The attacker can end the conflict at any point. Defenders must
-   retreat, as outlined below.
-- You may attack as many opponents as you would like, so long as you
-   still have an officer. If you obliterate an opponent or they retreat,
-   you may not attack them again until your next turn.
+- Defender may play only one card or combo at a time in response to each Act of War. (This means, for example, the defender may not play a Spy, then immediately play a Sniper. The attacker, however, may play a Nation Card which does not cause damage to their opponent, then a Medic, then a Spy—all without the defender able to play any cards in response.)
+- The attacker can end the conflict at any point. Defenders must retreat, as outlined below.
+- You may attack as many opponents as you would like, so long as you still have an officer. If you obliterate an opponent's Armies or they retreat, you may not attack them again until your next turn.
 
 # Retreating
 
 Defenders may retreat in one of three ways to end unwanted conflicts:
 
-   1. __Rolling doubles__ — If the defender rolls doubles, they have the option to retreat without any further losses. (No damage is caused or taken by this dice roll.)
+   1. __Rolling doubles__ — If the defender rolls doubles, they have the option to retreat by discarding one officer, without any further losses. (No damage is caused or taken by this dice roll.)
 
    2. __General Retreat__ — If the defender has a General and one other card, they may retreat, discarding half their Army, rounding up.
 
