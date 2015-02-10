@@ -40,7 +40,19 @@ Every player has one super-nuke called a __Kerblam!__ which is immediately avail
 
 # Cards
 
-The playing area is set up like this.
+### Deck setup
+
+Your deck should be made of 30 cards:
+- 2 Kings
+- 2 Queens
+- 3 Jacks
+- 3 Aces
+- 20 numbered cards=
+
+There should be an even number of black and red cards.
+
+Additionally set aside one numbered card, which will be placed on the very bottom of the deck after shuffling. This will be your KerBLAM card.
+
 
 ### Civilians
 Civilians are cards that have not been drawn. They become part of your Army when they are drafted (drawn into your hand).
@@ -62,15 +74,15 @@ Officers each have Officer Point (OP) value associated with them and allow you t
 
 Aside from Generals (K), which have abilities that can be used each round, each cards' abilities can only be used once per game, so turn them sideways and place them in your Front Line to show they are spent.
 
-Officers can be *resurrected* (brought out of Graveyard) and can once again be used.
+Officers can be *resurrected* (brought out of Graveyard) or *reactivated* (by using the Medic) and can once again be used.
 
-__General (K), 10 OP__ — Allows you to retreat anytime in a battle, discarding half your Army, rounding up. Must have at least a General and one other card to retreat. Among officers, only Generals can be used multiple times.
+__General (K), 10 OP__ — Allows you to retreat anytime in a battle, discarding half your Army, rounding up. Must have at least a General and one other card to retreat. Only Generals can be used multiple times without reactivation.
 
-__Medic (Q),  5 OP__ — May instantly save a General from a successful snipe attempt. Medics cannot save any other . In the event of a Nuke or a Kerblam, you may save one General for each unused Medic in your Army. (In this case, the Medic is discarded.)
+__Medic (Q),  5 OP__ — May instantly save a General from a successful snipe attempt. Medics cannot save any other card. May reactivate officers whose abilities have been used. In the event of a Nuke or a Kerblam, you may save one General for each unused Medic in your Army. (In this case, the Medic is discarded.)
 
-__Sniper (A), 5 OP__ — May snipe an opponent’s General *or* their Nuke. Each party rolls two dice, if Sniper’s roll is higher or ties, the Snipe is successful. Can be used to snipe Covert Generals, but only if the Sniper’s Army has played a Spy this turn.
+__Sniper (A), 5 OP__ — May attempt to snipe any card in opponent's Front Line or Covert Forces. Each party rolls two dice, if Sniper’s roll is higher or ties, the Snipe is successful. Can be used to snipe specific Covert Forces, but only if the Sniper’s Army has played a Spy this turn. (Otherwise, they may indicate which card from Covert Forces to snipe by pointing at its card back.)
 
-__Spy (Jack) - 5 OP__ — Allows you to look one time at one opponent’s Covert Forces.
+__Spy (Jack) - 5 OP__ — May be used to look one time at one opponent’s Covert Forces. May be used to assassinate an opponent's officer when their Army retreats by any means. May be used to draw a card from the War Chest.
 
 ### Nuclear Weapons
 
@@ -164,9 +176,13 @@ Defenders may retreat in one of three ways to end unwanted conflicts:
 
    3. __Super-General Retreat__ — If the defender has two Generals, they may retreat without incurring any loss.
 
-# Game options
+# Advanced play options
 
-### Officer Combos (advanced play)
+### Officer Point Budget
+
+You have a budget of 60 OP, which will allow you to choose which balance of Officers you want, based on your preferred strategy. You may have no more than 4 of any officer type. Because some officers have higher OP value than others, you may fill in the remaining slots in your deck with Soldiers.
+
+### Officer Combos
 
 For Officer Combos, most of the same rules apply as using Officer Cards, primarily that used cards must be turned sideways to show they are spent and any given card can only be used once (unless resurrected)
 
@@ -174,26 +190,27 @@ __Super-General (2 K)__
 The Super-General allows you to retreat anytime without taking losses in the present battle. This can only be used once then marked as spent. (Because Generals can be used each turn, they retain their *individual* powers for leading normal retreats.)
 
 __Super-Medic (2 Q)__ 
-Resurrect the top 5 cards from your Graveyard. May only be used once, then marked as spent.
+Resurrect the top 2 cards from your Graveyard.
 
 __Super-Sniper (2 A)__ 
-Execute an irreversible Snipe of a General or a Nuke without needing to roll. May only be used once, then marked as spent.
+Execute an irreversible Snipe of a General or a Nuke without needing to roll.
 
 __Super-Spy (2 J)__ 
-Look at everyone’s Covert Forces *and* your next 5 Civilian cards. May only be used once, then marked as spent.
+Look at everyone’s Covert Forces *and* your next 5 Civilian cards.
 
-__Weapons Inspector (1 J, 2 A)__ 
-Select one opponent to disable all nukes or their Kerblam!, if it is active. All 3 cards must be played simultaneously. May only be used once, then marked as spent.
+__Graverobber (Q + J)__
+Combine with a Medic to pick any single card from your graveyard to resurrect.
 
-### Multiplayer modifications and notes
+__Weapons Inspector (J + 2 A)__ 
+Select one opponent to disable all nukes or their Kerblam!, if it is active. All 3 cards must be played simultaneously.
 
-* 3-4 players: remove 4s, 3s and 2s
-* 5-6 players: remove 5s, 4s, 3s, 2s
-* 7+ players: remove 6s, 5s, 4s, 3s, 2s
+__Disarmament (2 J +  A)__
+Disable any nukes presently held.
 
-If you're looking to speed up gameplay, it is *highly* recommended you remove half the cards. (Drop 1 red suit, 1 black suit, and 1 Joker.)
+__Weapons Thieves (3 J)__
+Look at everyone's Covert Forces. Steal one Nuke from one opponent.
 
-# Kerblam! Nations (optional addition to gameplay)
+###  Kerblam! Nations
 
 At the beginning of the game, during setup, each player chooses one nation. Selection happens in reverse order from the order of play (based on who has rolled to go first in the game).
 
