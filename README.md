@@ -7,7 +7,7 @@ __*Kerblam!* is a card and dice war game in the spirit of RISK™, but for peopl
 ------------------------------------------------------------------------
 
 __Disclaimer:__ Kerblam is highly irreverent, ridiculous, historically inaccurate, and built on pop stereotypes. If you take all things literally, are uncomfortable playing war games like *RISK*, or would never be caught playing *Cards Against Humanity*, you will dislike this game very much. The authors of the game hate war, nuclear weapons, and nationalism.
-
+k
 __Note:__ Please [file issues](https://github.com/adambrault/kerblam/issues/new) if anything seems unclear or if you think there is an aspect of gameplay that could be improved or simplified. My goal is to play test this a bit more, collaborate with [Amy](http://twitter.com/amydearest) on the final card set, and publish this game with her beautiful artwork. Mostly because what the heck. Why not?
 
 ------------------------------------------------------------------------
@@ -82,10 +82,10 @@ When a Nuke is deployed:
 1. Play the Nuke. — *lay down Nuke card and state who you are nuking.*
 2. Determine countermeasures — *If your opponent plays a Nuke to counter, the nukes do not eliminate each other. Both play out their consequences.*
 3. Roll 2 dice. Outcome determined below:
-  * ``2``–``3`` destroys your own Covert Forces
-  * ``4``–``6`` destroys opponent's Front Line
-  * ``7``–``11`` destroys opponent's Covert Forces
-  * ``12`` destroys opponent’s Entire Army. (Not Civilians)
+  * ``3`` destroys your largest force (Covert Forces or Front Lines)
+  * ``4``–``6`` destroys opponent's smallest force (Covert Forces or Front Lines)
+  * ``7``–``11`` destroys opponent's largest force (Covert Forces or Front Lines)
+  * ``2`` or ``12`` destroys opponent’s Entire Army (not Civilians)
 
 ##### Kerblam! Nukes
 A Kerblam! is a Super-Nuke that is only available to be played once a player has no Civilians left. (The last card drawn becomes the KerBLAM and is set out in front of the Front Line. This card loses its normal powers if it is an officer card. When drawing last card, players must call out “KerBLAM!”)
@@ -95,10 +95,10 @@ When a Kerblam is deployed:
 1. Play the Kerblam! — *State who to Kerblam!*
 2. Determine Counter-Measures — *Attacked player may counter only with their own Kerblam!*
 3. Roll 2 dice. Outcome determined below:
-  * ``2``–``6`` destroys all *your* remaining Armies.
-  * ``7`` destroys half of *your* remaining Armies and half of your opponent's  largest force (Civilian/Covert/Front Line)
-  * ``8``–``11`` destroys all of opponent’s Civilians.
-  * ``12`` destroys all of opponent's Civilians and Armies
+  * ``3``–``6`` destroys all *your* remaining Armies
+  * ``7`` destroys your opponent's largest force (Civilian / Covert Forces / Front Line)
+  * ``8``–``11`` destroys half of *your* remaining Armies and half of opponent’s Armies and Civilians
+  * ``2`` or ``12`` destroys all of opponent's Civilians and Armies
 
 # Getting Started
 Roll to see who goes first. (Turns progress clock-wise.)
