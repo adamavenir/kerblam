@@ -26,7 +26,7 @@ Players are eliminated when their entire Army and their Civilians are in the Gra
 
 - __2–8 players__
 - __5 dice:__ 3 red dice (attacking), 2 white dice (defending)
-- __Cards:__ One 54-card deck (52 + 2 jokers) per player
+- __Cards:__ One card deck (including 2 jokers) per player
 
 # How the game works
 
