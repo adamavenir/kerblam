@@ -127,7 +127,6 @@ Keep in mind throughout the game that for any rounding of numbers that takes pla
 
 __1. Draw cards.__
 * Draw 2 cards.
-* If the dice match, draw the total shown.
 
 __2. Announce Officer Point (OP) totals and advantages__
 * Have everyone playing count officer points in their Front Line and Covert Forces and announce them to the group.
